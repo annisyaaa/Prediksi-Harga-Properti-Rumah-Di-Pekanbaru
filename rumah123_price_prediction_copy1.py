@@ -4,7 +4,6 @@ import numpy as np
 import os
 import re
 import locale
-from geopy.geocoders import Nominatim
 import matplotlib.pyplot as plt
 import seaborn as sns
 import tkinter as tk
